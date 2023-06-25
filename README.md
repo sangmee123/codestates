@@ -50,16 +50,17 @@ cp helloWorld.txt hiComputer.txt
 
 ls //helloWorld.txt hiComputer.txt 가 출력됩니다
 
-<img width="560" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/489f4f31-9670-4951-8329-654022f2022f">
-<img width="425" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/86cd8cbe-79c5-4729-8faf-03eaf80ef193">
-<img width="569" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/df8c3c51-49fa-4dbf-a638-94d8e7a68413">
+
+<img width="560" alt="스크린샷 2023-06-24 092223" src="https://github.com/sangmee123/codestates/assets/69633033/b822d959-c486-49f4-85e7-8952bfecd5d7">
+<img width="425" alt="스크린샷 2023-06-24 092707" src="https://github.com/sangmee123/codestates/assets/69633033/d047245d-ab02-4039-8071-2cac08acf016">
+<img width="569" alt="스크린샷 2023-06-24 093955" src="https://github.com/sangmee123/codestates/assets/69633033/a027f96e-af1a-4855-aacb-8092198ab6c1">
 
 ___
 
 **mv**: 폴더나 파일의 이름을 변경, 또는 폴더나 파일의 위치 옮기기
 
-<img width="421" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/c4d551dc-80e3-4919-ac26-4ff14fd5b4a9">
-<img width="507" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/0534c8f1-baed-430e-9ca8-71969c6f0cb4">
+<img width="421" alt="스크린샷 2023-06-24 091811" src="https://github.com/sangmee123/codestates/assets/69633033/d0509653-aa57-4b74-ab43-4a075e7a57fd">
+<img width="507" alt="스크린샷 2023-06-24 091424" src="https://github.com/sangmee123/codestates/assets/69633033/a9fd797a-c977-439e-8651-d5fca3798933">
 
 ___
 
@@ -70,7 +71,7 @@ ___
 
 **sudo**: 관리자 권한을 획득하는 명령어
 
-<img width="498" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/8c7200b1-80ba-4a2e-a04a-43c4684ff9cd">
+<img width="498" alt="스크린샷 2023-06-24 100127" src="https://github.com/sangmee123/codestates/assets/69633033/19ec7634-f02b-4a7a-8877-9a39e39c84e8">
 
 ## nano 에디터 
 CLI에서 환경에서 유명한 에디터는 vim(vi), emacs 등이 있다. 그러나 가장 사용하기 쉬운 에디터는 다름 아닌 nano 에디터이다.
@@ -83,7 +84,7 @@ A. AWS(Amazon Web Service)와 같은 원격 서버 환경에서 원격으로 텍
 
 **Ctrl + X**: 파일 편집 후 종료
 
-<img width="583" alt="image" src="https://github.com/sangmee123/codestates/assets/69633033/ebf00831-36c7-40b1-855f-fe119cc1bfda">
+<img width="583" alt="스크린샷 2023-06-24 101428" src="https://github.com/sangmee123/codestates/assets/69633033/f38506fb-8ac2-4f55-838b-95cfb0db7858">
 
 화면에 표시된 ^X와 같은 내용은 Ctrl + X 키 조합을 의미
 
